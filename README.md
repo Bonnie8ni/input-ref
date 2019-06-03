@@ -1,3 +1,7 @@
+## 範例網址
+
+https://bonnie8ni.github.io/input-ref/
+
 ## input ref 三種方式
 
 1. ref 字串
