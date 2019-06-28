@@ -8,6 +8,6 @@ https://bonnie8ni.github.io/input-ref/
 2. ref function
 3. ref createRef
 
-## 此專案使用 creat-reat-app
+## 此專案使用 create-react-app
 
 https://facebook.github.io/create-react-app/docs/getting-started
